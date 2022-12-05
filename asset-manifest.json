@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/port-tailwind/static/css/main.d8ae00f2.css",
-    "main.js": "/port-tailwind/static/js/main.caf8752b.js",
+    "main.js": "/port-tailwind/static/js/main.7742ed1f.js",
     "static/js/787.548acaf5.chunk.js": "/port-tailwind/static/js/787.548acaf5.chunk.js",
     "static/media/laptopanalytics.svg": "/port-tailwind/static/media/laptopanalytics.76fa607ba8c5cb079025697e13121d57.svg",
     "static/media/people.svg": "/port-tailwind/static/media/people.fa00d3334d83d0d26cd9131b1d178aa2.svg",
@@ -9,11 +9,11 @@
     "static/media/laptop.svg": "/port-tailwind/static/media/laptop.4fc3eb9bae0f479b2a748cce681690dc.svg",
     "index.html": "/port-tailwind/index.html",
     "main.d8ae00f2.css.map": "/port-tailwind/static/css/main.d8ae00f2.css.map",
-    "main.caf8752b.js.map": "/port-tailwind/static/js/main.caf8752b.js.map",
+    "main.7742ed1f.js.map": "/port-tailwind/static/js/main.7742ed1f.js.map",
     "787.548acaf5.chunk.js.map": "/port-tailwind/static/js/787.548acaf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8ae00f2.css",
-    "static/js/main.caf8752b.js"
+    "static/js/main.7742ed1f.js"
   ]
 }
